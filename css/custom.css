@@ -1,0 +1,70 @@
+body {
+    padding-top: 50px; /* Padding for .navbar-fixed-top. Change value if navbar height changes. Remove if using .navbar-static-top. */
+}
+
+.portfolio-item {
+    margin-bottom: 25px;
+}
+
+.footer-blurb {
+    padding: 30px 0;
+	text-align: center;
+    background-color: lightskyblue;
+}
+
+.footer-blurb h3 {
+    color: midnightblue;
+    }
+    
+.footer-blurb-item {
+    padding: 30px 0;
+    }
+ 
+.copyright {
+	background-color: #fff;
+	text-align: center;
+	padding: 30px 0;
+}
+
+.top{
+    background-color: #35af76;
+    height: 100px;
+    width: 100%;
+    font-size: 25px;
+    color: darkgoldenrod;
+}
+
+.logo{
+    border: 4px dashed rgb(210, 245, 10);
+    padding: 2px;
+    border-radius: 50%;
+    width: 90px;
+    margin-left:-10vmax  !important;
+}
+
+
+
+.help{
+    display: flex;
+    justify-content:space-around;
+    /* background-color: red; */
+    align-items:center;
+}
+
+.side{
+    display: flex;
+    background-color: #95d5b2;
+    height: 100vh;
+    width: 125px;
+    font-size: 25px;
+    color: black;
+    
+}
+
+.uln{
+    list-style-type: none;
+}
+
+.lin{
+    margin-left: -20px;
+}
